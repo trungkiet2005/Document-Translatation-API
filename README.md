@@ -1,4 +1,4 @@
-# PDF Math Translate API
+# PDF Translate API
 
 ## Giới thiệu
 
