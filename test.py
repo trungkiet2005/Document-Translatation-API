@@ -314,7 +314,8 @@ def test_translation_prompt_api(pdf_path):
 
 if __name__ == "__main__":
     # Thay đổi đường dẫn tới file PDF cần test
-    pdf_file_path = "./test/file/translate.cli.text.with.figure.pdf"  # Thay đổi thành đường dẫn file PDF của bạn
+    pdf_file_path = "EVENTA.pdf"  
+    # Thay đổi thành đường dẫn file PDF của bạn
     
     # Nếu chạy với tham số dòng lệnh
     import sys

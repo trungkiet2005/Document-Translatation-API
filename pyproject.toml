@@ -1,5 +1,5 @@
 [project]
-name = "pdf2zh"
+name = "code_pdf"
 version = "1.9.3"
 description = "Latex PDF Translator"
 authors = [{ name = "Byaidu", email = "byaidux@gmail.com" }]
@@ -65,7 +65,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project.scripts]
-pdf2zh = "pdf2zh.pdf2zh:main"
+code_pdf = "code_pdf.code_pdf:main"
 
 [tool.flake8]
 ignore = ["E203", "E261", "E501", "W503", "E741"]
@@ -82,6 +82,6 @@ version_pattern = "MAJOR.MINOR.PATCH[.PYTAGNUM]"
     'current_version = "{version}"',
     'version = "{version}"'
 ]
-"pdf2zh/__init__.py" = [
+"code_pdf/__init__.py" = [
     '__version__ = "{version}"'
 ]

@@ -3,8 +3,8 @@ docs
 .git
 .pre-commit-config.yaml
 uv.lock
-pdf2zh_files
-gui/pdf2zh_files
+code_pdf_files
+gui/code_pdf_files
 gradio_files
 tmp
 gui/gradio_files

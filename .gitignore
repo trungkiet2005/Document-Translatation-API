@@ -1,0 +1,10 @@
+pdftranslate-env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.so
+*.lib
+*.log
+.env

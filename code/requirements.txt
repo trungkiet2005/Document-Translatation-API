@@ -1,0 +1,11 @@
+flask==3.0.2
+flask-cors==4.0.0
+numpy==1.26.4
+pymupdf==1.23.26
+pdfminer.six==20231228
+onnxruntime==1.17.0
+torch==2.2.1
+transformers==4.38.2
+sentencepiece==0.2.0
+protobuf==4.25.3
+googletrans-py==4.0.0-rc1 
